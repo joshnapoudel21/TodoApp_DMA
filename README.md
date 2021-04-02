@@ -17,6 +17,8 @@ Deleting the items of the app:
 
 ![todo_delete](https://user-images.githubusercontent.com/78063970/113430345-bc496b00-93f9-11eb-8810-3902b80d3c1c.gif)
 
+Cancelling the app:
+
 ![todoapp3](https://user-images.githubusercontent.com/78063970/113430357-c2d7e280-93f9-11eb-8716-919c3c13be09.gif)
 
 Horizontal View of app:
